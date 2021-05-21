@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivansh345678
+- 👋 Hi, I’m Shivansh
 - 👀 I’m interested in c amd c++ projects.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on anything related to above mentioned languages.
