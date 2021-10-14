@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivansh
-- 👀 I’m interested in c amd c++ projects.
-- 🌱 I’m currently learning DSA.
+- 👀 I’m interested in c , c++ and web dev projects.
+- 🌱 I’m currently learning DSA and I know HTML/CSS ans javascript.
 - 💞️ I’m looking to collaborate on anything related to above mentioned languages.
 - 📫 How to reach me -you can mail me on shivansh345678@gmail.com .
 
